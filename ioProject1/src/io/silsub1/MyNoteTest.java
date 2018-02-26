@@ -7,6 +7,10 @@ public class MyNoteTest {
 	public static void main(String[] args) {
 		MyNote myM = new MyNote();
 		Scanner sc = new Scanner(System.in);
+		System.out.println();
+		sdlkfjsdlkf
+		sdflksdjf
+		dsflkj
 		
 		do {
 			System.out.println("=========My Note========");
