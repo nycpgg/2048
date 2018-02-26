@@ -8,8 +8,6 @@ public class MyNoteTest {
 		MyNote myM = new MyNote();
 		Scanner sc = new Scanner(System.in);
 		
-		//수정
-		System.out.println();
 		do {
 			System.out.println("=========My Note========");
 			System.out.println("1. 노트 새로 만들기");
