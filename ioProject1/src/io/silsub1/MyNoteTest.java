@@ -8,9 +8,7 @@ public class MyNoteTest {
 		MyNote myM = new MyNote();
 		Scanner sc = new Scanner(System.in);
 		System.out.println();
-		sdlkfjsdlkf
-		sdflksdjf
-		dsflkj
+		//sadflkjsadflk;sjdklj
 		
 		do {
 			System.out.println("=========My Note========");
